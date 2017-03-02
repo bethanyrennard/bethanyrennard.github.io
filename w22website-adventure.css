@@ -1,0 +1,24 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: orange;
+}
+
+img {
+    margin: auto;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1
+}
+
+p {
+    text-align: center;
+    width: 100px;
+    margin:auto;
+    border-color: #16f90b;
+    border-width: 3px;
+    border-style: solid;
+}

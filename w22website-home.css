@@ -1,0 +1,13 @@
+body {
+    background-color: (226, 115, 77);
+    background-image: url("faces-tile.gif");
+}
+
+h1 {
+    color: orange;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
