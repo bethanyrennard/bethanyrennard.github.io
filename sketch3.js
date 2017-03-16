@@ -1,6 +1,6 @@
 var img;
 function preload() {
-  img = loadImage("pinman.png");
+  img = loadImage("directions.png");
 }
 
 function setup() {

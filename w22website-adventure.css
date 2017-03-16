@@ -1,23 +1,25 @@
 body {
-    background-color: lightpink;
+    background-color: rgb(250, 212, 210);
 }
 
 h1 {
     color: orange;
 }
 
+div {
+
+}
+
 img {
-    margin: auto;
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    z-index: -1
+  display: block;
+  margin: 0 auto;
 }
 
 p {
     text-align: center;
     width: 100px;
-    margin:auto;
+    margin: auto;
+    position: fixed;
     border-color: #16f90b;
     border-width: 3px;
     border-style: solid;

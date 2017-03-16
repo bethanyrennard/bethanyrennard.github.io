@@ -9,6 +9,7 @@ function draw() {
   if (mouseIsPressed == true) {
     stroke(250, 3, 80);
   } else {
-    stroke(0, 0, 255, 160);
+    stroke(110, 164, 249);
   }
+
 }
